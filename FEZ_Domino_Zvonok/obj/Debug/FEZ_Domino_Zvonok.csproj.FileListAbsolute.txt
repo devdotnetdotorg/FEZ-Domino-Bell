@@ -1,0 +1,70 @@
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\obj\Debug\TinyCLR_DebugReferences.cache
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\obj\Debug\FEZ_Domino_Zvonok.Resources.resources
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\obj\Debug\FEZ_Domino_Zvonok.csproj.GenerateResource.Cache
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\obj\Debug\FEZ_Domino_Zvonok.Resources.tinyresources
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\obj\Debug\TinyResGen.cache
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\le\FEZ Domino Application.exe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\be\FEZ Domino Application.exe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\le\FEZ Domino Application.pdb
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\be\FEZ Domino Application.pdb
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\FEZ Domino Application.exe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\FEZ Domino Application.pdb
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\le\FEZ Domino Application.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\le\FEZ Domino Application.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\be\FEZ Domino Application.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\be\FEZ Domino Application.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.Native.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.Net.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.W5100.Dhcp.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.W5100.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.W5100.Http.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.Native.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.Net.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.W5100.Dhcp.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.W5100.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.W5100.Http.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.Native.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.Net.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.W5100.Dhcp.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.W5100.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\LE\GHIElectronics.NETMF.W5100.Http.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.Native.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.Net.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.W5100.Dhcp.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.W5100.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\BE\GHIElectronics.NETMF.W5100.Http.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.IO.dll
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.Native.dll
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.Net.dll
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.System.dll
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.W5100.Dhcp.dll
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.W5100.dll
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.W5100.Http.dll
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.IO.xml
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.Native.xml
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.Net.xml
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.System.xml
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.W5100.xml
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.W5100.Dhcp.xml
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\bin\Debug\GHIElectronics.NETMF.W5100.Http.xml
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\obj\Debug\be\FEZ Domino Application.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\obj\Debug\be\FEZ Domino Application.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\obj\Debug\le\FEZ Domino Application.pe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\obj\Debug\le\FEZ Domino Application.pdbx
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\obj\Debug\FEZ Domino Application.exe
+D:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\obj\Debug\FEZ Domino Application.pdb
+d:\Anton\Developer Boards\FEZ Domino - net micro framework\ProjectsVS\FEZ_Domino_Zvonok\FEZ_Domino_Zvonok\obj\Debug\FEZ_Domino_Zvonok.csprojResolveAssemblyReference.cache
